@@ -5,10 +5,10 @@ import shutil
 from utils.logger import log
 
 class Defaults:
-    token = None
-    dbots_token = None
+    token = "NTU5NjEyNTYxMjQzMzczNTY4.XWTSAQ.HdZhM7gNIpjVrx5d5MubnXj4Kbc"
+    dbots_token = "NjQ0MTMyOTkzNTEzOTQ3MTM2.XdOTfA.EsblpcOhig_5C0ln16OPUsOtUTo"
     carbonitex_key = None
-    owner_id = None
+    owner_id = ""
     command_prefix = "*"
     dev_ids = []
     support_ids = []
@@ -30,7 +30,7 @@ class Defaults:
     enableSteam = False
     steamAPIKey = None
     twitchClientID = None
-    googleAPIKey = None
+    googleAPIKey = "AIzaSyBuetzs7f9EcsgeIX6FI1BhGrZnOl9rcLU"
 
 class Config:
     def __init__(self):
