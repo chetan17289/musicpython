@@ -8,8 +8,8 @@ class Defaults:
     token = "NTU5NjEyNTYxMjQzMzczNTY4.XWTSAQ.HdZhM7gNIpjVrx5d5MubnXj4Kbc"
     dbots_token = "NjQ0MTMyOTkzNTEzOTQ3MTM2.XdOTfA.EsblpcOhig_5C0ln16OPUsOtUTo"
     carbonitex_key = None
-    owner_id = ""
-    command_prefix = "*"
+    owner_id = "559612561243373568"
+    command_prefix = "&"
     dev_ids = []
     support_ids = []
     skip_votes_needed = 3
