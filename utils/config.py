@@ -5,11 +5,11 @@ import shutil
 from utils.logger import log
 
 class Defaults:
-    token = "NjQ2MzE0OTYzNjMxMjEwNDk4.XdPWEw.3bcsvxt4Jyg95moxr3mjK9pxdac"
+    token = "NjQ2MzE0OTYzNjMxMjEwNDk4.XdlLvg.fxg2LuGLtOKZMueCr1xEthU_V-o"
     dbots_token = ""
     carbonitex_key = None
     owner_id = "559612561243373568"
-    command_prefix = "&"
+    command_prefix = "*"
     dev_ids = []
     support_ids = []
     skip_votes_needed = 3
