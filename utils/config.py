@@ -30,7 +30,7 @@ class Defaults:
     enableSteam = False
     steamAPIKey = None
     twitchClientID = None
-    googleAPIKey = "AIzaSyBuetzs7f9EcsgeIX6FI1BhGrZnOl9rcLU"
+    googleAPIKey = "AIzaSyALpt4m_N3KNSIepEWmGMNca5H-iew0Smk"
 
 class Config:
     def __init__(self):
